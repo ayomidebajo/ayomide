@@ -185,20 +185,17 @@ class Home extends Component {
           <h4 className="font-weight-bold h3 text-center mt-5">About me</h4>
 
           <div className="about" id="about-me">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. At neque
-            repellat explicabo, consequuntur sint ipsum dicta rem provident
-            placeat nihil quo dolorum cumque, unde veniam blanditiis corporis
-            illo suscipit voluptate. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. At neque repellat explicabo, consequuntur sint
-            ipsum dicta rem provident placeat nihil quo dolorum cumque, unde
-            veniam blanditiis corporis illo suscipit voluptate. Lorem ipsum
-            dolor sit amet consectetur adipisicing elit. At neque repellat
-            explicabo, consequuntur sint ipsum dicta rem provident placeat nihil
-            quo dolorum cumque, unde veniam blanditiis corporis illo suscipit
-            voluptate. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            At neque repellat explicabo, consequuntur sint ipsum dicta rem
-            provident placeat nihil quo dolorum cumque, unde veniam blanditiis
-            corporis illo suscipit voluptate.
+            I am a human who is optimistic about life. There are many things I
+            like to do, to see and experience, but I'm just going to keep it
+            short
+            <p>
+              I love playing games, I like to read, I love watching movies while
+              I'm eating, lol, I'd love to travel if I have the opportunity and
+              I love building products that matter!{" "}
+              <span role="img" aria-labelledby="emoji">
+                😁
+              </span>
+            </p>
           </div>
 
           <div className="" id="experience">
