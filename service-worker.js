@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ayomide/precache-manifest.5d4eb6f370aa9bf01fb7a75ee966ad3d.js"
+  "/ayomide/precache-manifest.b1c2670e12f83e396c970c5e595ceb9e.js"
 );
 
 self.addEventListener('message', (event) => {

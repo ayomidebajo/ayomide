@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62bc030d94019ddbe442ea7d55c2021b",
+    "revision": "c3b5fd957c471a238e4d1367a8016e96",
     "url": "/ayomide/index.html"
   },
   {
-    "revision": "b6bb8f118f2bd1ae3d1e",
+    "revision": "a73549fbb5a1b99ff685",
     "url": "/ayomide/static/css/main.d67b15d4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ayomide/static/js/3.fdfbe166.chunk.js"
   },
   {
-    "revision": "b6bb8f118f2bd1ae3d1e",
-    "url": "/ayomide/static/js/main.e099fd80.chunk.js"
+    "revision": "a73549fbb5a1b99ff685",
+    "url": "/ayomide/static/js/main.9a8750fe.chunk.js"
   },
   {
     "revision": "ed25d90d63b0e7b514c5",
