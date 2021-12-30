@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ayomide/static/css/main.d67b15d4.chunk.css",
+    "main.css": "/ayomide/static/css/main.402dd32d.chunk.css",
     "main.js": "/ayomide/static/js/main.9a8750fe.chunk.js",
     "main.js.map": "/ayomide/static/js/main.9a8750fe.chunk.js.map",
     "runtime-main.js": "/ayomide/static/js/runtime-main.629c73d4.js",
@@ -10,9 +10,9 @@
     "static/js/3.fdfbe166.chunk.js": "/ayomide/static/js/3.fdfbe166.chunk.js",
     "static/js/3.fdfbe166.chunk.js.map": "/ayomide/static/js/3.fdfbe166.chunk.js.map",
     "index.html": "/ayomide/index.html",
-    "precache-manifest.b1c2670e12f83e396c970c5e595ceb9e.js": "/ayomide/precache-manifest.b1c2670e12f83e396c970c5e595ceb9e.js",
+    "precache-manifest.e59b1b0366208dd9105c55553af41104.js": "/ayomide/precache-manifest.e59b1b0366208dd9105c55553af41104.js",
     "service-worker.js": "/ayomide/service-worker.js",
-    "static/css/main.d67b15d4.chunk.css.map": "/ayomide/static/css/main.d67b15d4.chunk.css.map",
+    "static/css/main.402dd32d.chunk.css.map": "/ayomide/static/css/main.402dd32d.chunk.css.map",
     "static/js/2.64838623.chunk.js.LICENSE": "/ayomide/static/js/2.64838623.chunk.js.LICENSE",
     "static/media/blogpress.png": "/ayomide/static/media/blogpress.d0c6f28f.png",
     "static/media/books-club.png": "/ayomide/static/media/books-club.af4e4b41.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.629c73d4.js",
     "static/js/2.64838623.chunk.js",
-    "static/css/main.d67b15d4.chunk.css",
+    "static/css/main.402dd32d.chunk.css",
     "static/js/main.9a8750fe.chunk.js"
   ]
 }
