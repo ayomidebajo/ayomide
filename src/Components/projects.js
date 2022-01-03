@@ -30,11 +30,6 @@ function Projects() {
       url: "https://my-e-commerce-store.netlify.app",
       title: "An ecommerce web app",
     },
-    {
-      img: simpleDashboard,
-      url: "https://simple-dashboard-ui.netlify.app",
-      title: "A simple dashboard (Web view only)",
-    },
   ];
 
   return (
