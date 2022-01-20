@@ -15,11 +15,11 @@ const breakPoints = [
 
 function Projects() {
   const items = [
-    {
-      img: booksClub,
-      url: "https://books-club.netlify.app",
-      title: "A BooksClub",
-    },
+    // {
+    //   img: booksClub,
+    //   url: "https://books-club.netlify.app",
+    //   title: "A BooksClub",
+    // },
     {
       img: blogPress,
       url: "https://blogpress.netlify.app",
