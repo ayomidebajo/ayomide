@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01590f2c4f2fac5a376075166c76032c",
+    "revision": "1bf2ebf7b82578d17e39bc348199a821",
     "url": "/ayomide/index.html"
   },
   {
-    "revision": "824d8a3ff2553c7749f0",
+    "revision": "a7882d8fdf4c06fc7e94",
     "url": "/ayomide/static/css/main.402dd32d.chunk.css"
   },
   {
-    "revision": "67486d1c9a3a65d65b75",
-    "url": "/ayomide/static/js/2.9bc28121.chunk.js"
+    "revision": "2220d661a258351f0362",
+    "url": "/ayomide/static/js/2.c701f118.chunk.js"
   },
   {
     "revision": "79f4859763f6c0c1e8012306c824fad2",
-    "url": "/ayomide/static/js/2.9bc28121.chunk.js.LICENSE"
+    "url": "/ayomide/static/js/2.c701f118.chunk.js.LICENSE"
   },
   {
     "revision": "92da525fcd3f3a043de0",
     "url": "/ayomide/static/js/3.fdfbe166.chunk.js"
   },
   {
-    "revision": "824d8a3ff2553c7749f0",
-    "url": "/ayomide/static/js/main.466dd626.chunk.js"
+    "revision": "a7882d8fdf4c06fc7e94",
+    "url": "/ayomide/static/js/main.a6bbce8f.chunk.js"
   },
   {
     "revision": "ed25d90d63b0e7b514c5",
