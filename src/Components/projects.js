@@ -1,9 +1,9 @@
 import React from "react";
 import Carousel from "react-elastic-carousel";
 import { Item } from "./item";
-import simpleDashboard from "../assets/simple-dashboard.png";
+// import simpleDashboard from "../assets/simple-dashboard.png";
 import ecommerce from "../assets/ecommerce-stor.png";
-import booksClub from "../assets/books-club.png";
+// import booksClub from "../assets/books-club.png";
 import blogPress from "../assets/blogpress.png";
 import streetWeb from "../assets/project3.png";
 
