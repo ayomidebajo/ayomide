@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ayomide/static/css/main.402dd32d.chunk.css",
-    "main.js": "/ayomide/static/js/main.d01e1f03.chunk.js",
-    "main.js.map": "/ayomide/static/js/main.d01e1f03.chunk.js.map",
+    "main.js": "/ayomide/static/js/main.a5d8dd28.chunk.js",
+    "main.js.map": "/ayomide/static/js/main.a5d8dd28.chunk.js.map",
     "runtime-main.js": "/ayomide/static/js/runtime-main.6acfc0c8.js",
     "runtime-main.js.map": "/ayomide/static/js/runtime-main.6acfc0c8.js.map",
     "static/js/2.729dffd6.chunk.js": "/ayomide/static/js/2.729dffd6.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.b90483eb.chunk.js": "/ayomide/static/js/3.b90483eb.chunk.js",
     "static/js/3.b90483eb.chunk.js.map": "/ayomide/static/js/3.b90483eb.chunk.js.map",
     "index.html": "/ayomide/index.html",
-    "precache-manifest.43babca644ed570159c5a2d91fe1539f.js": "/ayomide/precache-manifest.43babca644ed570159c5a2d91fe1539f.js",
+    "precache-manifest.19fc47d70c2360f5cc25cc2ad0dc1271.js": "/ayomide/precache-manifest.19fc47d70c2360f5cc25cc2ad0dc1271.js",
     "service-worker.js": "/ayomide/service-worker.js",
     "static/css/main.402dd32d.chunk.css.map": "/ayomide/static/css/main.402dd32d.chunk.css.map",
     "static/js/2.729dffd6.chunk.js.LICENSE": "/ayomide/static/js/2.729dffd6.chunk.js.LICENSE",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.6acfc0c8.js",
     "static/js/2.729dffd6.chunk.js",
     "static/css/main.402dd32d.chunk.css",
-    "static/js/main.d01e1f03.chunk.js"
+    "static/js/main.a5d8dd28.chunk.js"
   ]
 }
