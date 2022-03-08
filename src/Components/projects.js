@@ -5,6 +5,7 @@ import simpleDashboard from "../assets/simple-dashboard.png";
 import ecommerce from "../assets/ecommerce-stor.png";
 import booksClub from "../assets/books-club.png";
 import blogPress from "../assets/blogpress.png";
+import streetWeb from "../assets/project3.png";
 
 const breakPoints = [
   { width: 1, itemsToShow: 1 },
@@ -15,11 +16,11 @@ const breakPoints = [
 
 function Projects() {
   const items = [
-    // {
-    //   img: booksClub,
-    //   url: "https://books-club.netlify.app",
-    //   title: "A BooksClub",
-    // },
+    {
+      img: streetWeb,
+      url: "https://streetzweb.netlify.app",
+      title: "A application for posting ideas and goals",
+    },
     {
       img: blogPress,
       url: "https://blogpress.netlify.app",
