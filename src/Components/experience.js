@@ -24,7 +24,7 @@ function Experience() {
             <p className="h6 font-weight-bold">
               Frontend Engineer - Ikooba technologies(BMAC solutions)
             </p>
-            <small>Sep 2020 - present</small>
+            <small>Sep 2020 - Jan 2022</small>
           </div>
           <div className="col-lg-6">
             <li> Building a new project from scratch with team members.</li>
