@@ -1,30 +1,29 @@
 {
   "files": {
     "main.css": "/ayomide/static/css/main.402dd32d.chunk.css",
-    "main.js": "/ayomide/static/js/main.a6bbce8f.chunk.js",
-    "main.js.map": "/ayomide/static/js/main.a6bbce8f.chunk.js.map",
-    "runtime-main.js": "/ayomide/static/js/runtime-main.629c73d4.js",
-    "runtime-main.js.map": "/ayomide/static/js/runtime-main.629c73d4.js.map",
-    "static/js/2.c701f118.chunk.js": "/ayomide/static/js/2.c701f118.chunk.js",
-    "static/js/2.c701f118.chunk.js.map": "/ayomide/static/js/2.c701f118.chunk.js.map",
-    "static/js/3.fdfbe166.chunk.js": "/ayomide/static/js/3.fdfbe166.chunk.js",
-    "static/js/3.fdfbe166.chunk.js.map": "/ayomide/static/js/3.fdfbe166.chunk.js.map",
+    "main.js": "/ayomide/static/js/main.d01e1f03.chunk.js",
+    "main.js.map": "/ayomide/static/js/main.d01e1f03.chunk.js.map",
+    "runtime-main.js": "/ayomide/static/js/runtime-main.6acfc0c8.js",
+    "runtime-main.js.map": "/ayomide/static/js/runtime-main.6acfc0c8.js.map",
+    "static/js/2.729dffd6.chunk.js": "/ayomide/static/js/2.729dffd6.chunk.js",
+    "static/js/2.729dffd6.chunk.js.map": "/ayomide/static/js/2.729dffd6.chunk.js.map",
+    "static/js/3.b90483eb.chunk.js": "/ayomide/static/js/3.b90483eb.chunk.js",
+    "static/js/3.b90483eb.chunk.js.map": "/ayomide/static/js/3.b90483eb.chunk.js.map",
     "index.html": "/ayomide/index.html",
-    "precache-manifest.2af5ae4a19911c3d4080b923141e27cf.js": "/ayomide/precache-manifest.2af5ae4a19911c3d4080b923141e27cf.js",
+    "precache-manifest.43babca644ed570159c5a2d91fe1539f.js": "/ayomide/precache-manifest.43babca644ed570159c5a2d91fe1539f.js",
     "service-worker.js": "/ayomide/service-worker.js",
     "static/css/main.402dd32d.chunk.css.map": "/ayomide/static/css/main.402dd32d.chunk.css.map",
-    "static/js/2.c701f118.chunk.js.LICENSE": "/ayomide/static/js/2.c701f118.chunk.js.LICENSE",
+    "static/js/2.729dffd6.chunk.js.LICENSE": "/ayomide/static/js/2.729dffd6.chunk.js.LICENSE",
     "static/media/blogpress.png": "/ayomide/static/media/blogpress.d0c6f28f.png",
-    "static/media/books-club.png": "/ayomide/static/media/books-club.af4e4b41.png",
     "static/media/ecommerce-stor.png": "/ayomide/static/media/ecommerce-stor.284465c4.png",
     "static/media/style.css": "/ayomide/static/media/header-background.ca104a4f.png",
-    "static/media/simple-dashboard.png": "/ayomide/static/media/simple-dashboard.78a75ec0.png",
+    "static/media/project3.png": "/ayomide/static/media/project3.0b70f06b.png",
     "static/media/snapAyo2Crop.jpg": "/ayomide/static/media/snapAyo2Crop.c1c60a45.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.629c73d4.js",
-    "static/js/2.c701f118.chunk.js",
+    "static/js/runtime-main.6acfc0c8.js",
+    "static/js/2.729dffd6.chunk.js",
     "static/css/main.402dd32d.chunk.css",
-    "static/js/main.a6bbce8f.chunk.js"
+    "static/js/main.d01e1f03.chunk.js"
   ]
 }
