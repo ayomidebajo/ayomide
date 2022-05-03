@@ -10,7 +10,7 @@ function Experience() {
         <div className="row">
           <div className="col-lg-6 ">
             <p className="h6 font-weight-bold">Frontend developer - SaVests </p>
-            <small>Mar 2020 - Apr 2020</small>
+            <small>Mar 2020 - Jul 2020</small>
           </div>
           <div className="col-lg-6">
             <li> Developed new user-facing features</li>
@@ -24,7 +24,7 @@ function Experience() {
             <p className="h6 font-weight-bold">
               Frontend Engineer - Ikooba technologies(BMAC solutions)
             </p>
-            <small>Sep 2020 - Jan 2022</small>
+            <small>Sep 2020 - Feb 2022</small>
           </div>
           <div className="col-lg-6">
             <li> Building a new project from scratch with team members.</li>
