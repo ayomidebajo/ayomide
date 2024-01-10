@@ -1,29 +1,20 @@
 {
   "files": {
-    "main.css": "/ayomide/static/css/main.402dd32d.chunk.css",
-    "main.js": "/ayomide/static/js/main.1160275f.chunk.js",
-    "main.js.map": "/ayomide/static/js/main.1160275f.chunk.js.map",
-    "runtime-main.js": "/ayomide/static/js/runtime-main.6acfc0c8.js",
-    "runtime-main.js.map": "/ayomide/static/js/runtime-main.6acfc0c8.js.map",
-    "static/js/2.729dffd6.chunk.js": "/ayomide/static/js/2.729dffd6.chunk.js",
-    "static/js/2.729dffd6.chunk.js.map": "/ayomide/static/js/2.729dffd6.chunk.js.map",
-    "static/js/3.b90483eb.chunk.js": "/ayomide/static/js/3.b90483eb.chunk.js",
-    "static/js/3.b90483eb.chunk.js.map": "/ayomide/static/js/3.b90483eb.chunk.js.map",
+    "main.css": "/ayomide/static/css/main.7aac5c9e.css",
+    "main.js": "/ayomide/static/js/main.6d7208b0.js",
+    "static/js/496.308198b5.chunk.js": "/ayomide/static/js/496.308198b5.chunk.js",
+    "static/media/blogpress.png": "/ayomide/static/media/blogpress.523fc0a2ba0c64f8f1d1.png",
+    "static/media/ecommerce-stor.png": "/ayomide/static/media/ecommerce-stor.0e63954ba4fbfdd44529.png",
+    "static/media/project3.png": "/ayomide/static/media/project3.671e8dfab6f1d43b7419.png",
+    "static/media/snapAyo2Crop.jpg": "/ayomide/static/media/snapAyo2Crop.27e89740eb8dcc4a9288.jpg",
+    "static/media/header-background.png": "/ayomide/static/media/header-background.6d8f302bff893e102abe.png",
     "index.html": "/ayomide/index.html",
-    "precache-manifest.8ff4150ca9a84a6c9ee70cff313c136c.js": "/ayomide/precache-manifest.8ff4150ca9a84a6c9ee70cff313c136c.js",
-    "service-worker.js": "/ayomide/service-worker.js",
-    "static/css/main.402dd32d.chunk.css.map": "/ayomide/static/css/main.402dd32d.chunk.css.map",
-    "static/js/2.729dffd6.chunk.js.LICENSE": "/ayomide/static/js/2.729dffd6.chunk.js.LICENSE",
-    "static/media/blogpress.png": "/ayomide/static/media/blogpress.d0c6f28f.png",
-    "static/media/ecommerce-stor.png": "/ayomide/static/media/ecommerce-stor.284465c4.png",
-    "static/media/style.css": "/ayomide/static/media/header-background.ca104a4f.png",
-    "static/media/project3.png": "/ayomide/static/media/project3.0b70f06b.png",
-    "static/media/snapAyo2Crop.jpg": "/ayomide/static/media/snapAyo2Crop.c1c60a45.jpg"
+    "main.7aac5c9e.css.map": "/ayomide/static/css/main.7aac5c9e.css.map",
+    "main.6d7208b0.js.map": "/ayomide/static/js/main.6d7208b0.js.map",
+    "496.308198b5.chunk.js.map": "/ayomide/static/js/496.308198b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.6acfc0c8.js",
-    "static/js/2.729dffd6.chunk.js",
-    "static/css/main.402dd32d.chunk.css",
-    "static/js/main.1160275f.chunk.js"
+    "static/css/main.7aac5c9e.css",
+    "static/js/main.6d7208b0.js"
   ]
 }
