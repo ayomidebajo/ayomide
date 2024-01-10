@@ -146,21 +146,17 @@ class Home extends Component {
               <div className="row">
                 <div className="col-lg-6">
                   <p className="mb-5 custom-heading2">
-                    Hi, I'm Ayo!{" "}
+                    Hi, I'm Bekka!{" "}
                     <span role="img" aria-labelledby="emoji">
                       🤓
                     </span>
                   </p>
                   <p className="h6">
-                    I’m a front-end engineer based in Nigeria. I'm passionate
-                    about programming, just as much as I am about creating
-                    products that matter.
+                    I am a human who is optimistic about life. There are many
+                    things I like to do, to see and experience, I'll try to keep
+                    it short 😁
                   </p>
-                  <p className="h6">
-                    {" "}
-                    When I’m not coding I spend my time playing games or reading
-                    books.
-                  </p>
+                  <br />
                   <a href="#about-me">
                     <button className="btn btn-purple mx-0" type="submit">
                       Learn more
@@ -185,16 +181,21 @@ class Home extends Component {
           <h4 className="font-weight-bold h3 text-center mt-5">About me</h4>
 
           <div className="about" id="about-me">
-            I am a human who is optimistic about life. There are many things I
-            like to do, to see and experience, but I'm just going to keep it
-            short
             <p>
-              I love playing games, I like to read, I love watching movies while
-              I'm eating, lol, I'd love to travel if I have the opportunity and
-              I love building products that matter!{" "}
-              <span role="img" aria-labelledby="emoji">
-                😁
-              </span>
+              Ayomide Bajo (A.k.A Bekka) is a software developer/developer
+              advocate based in Lagos. She loves building, writing and speaking
+              about tech.
+            </p>
+            <p>
+              Graduated from Polkadot Blockchain academy in 2023, she became a
+              core contributor by contributing to the growth of the Rust
+              ecosystem in Nigeria, after which she joined the community in
+              2022, making her part of the community organizers.
+            </p>
+            <p>
+              She mentors at Polkadot Heroes Program while building Polkadot
+              Africa community, she's also an active ambassador in polkadot's
+              community. She's also currently serving as a Lead at H.E.R DAO 🇳🇬
             </p>
           </div>
 
