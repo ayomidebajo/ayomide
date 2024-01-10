@@ -202,6 +202,7 @@ class Home extends Component {
           <div className="" id="experience">
             <Experience />
           </div>
+          <br/>
           <div className="projects mt-5" id="projects">
             <h4 className="font-weight-bold text-center mt-5">Projects</h4>
           </div>
